@@ -67,4 +67,4 @@ O rodapé ainda conta com a opção de executar novamente o algoritmo, facilitan
     - layout.h
 
 # Atualizações
-- 18/03/2017 Versão Inicial
+- 2014 Ano de Desenvolvimento
